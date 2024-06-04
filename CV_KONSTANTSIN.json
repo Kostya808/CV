@@ -1,0 +1,25 @@
+{
+   "name":"kONSTANTYN",
+   "lastName":"kOZHANEWSKI",
+   "education":[
+      {
+         "name":"PTU-9",
+         "graduationYear":2002,
+         "specialization":"Plumber"
+      }
+   ],
+   "location":"Minsk",
+   "hobbies":[
+      "Ghost of Tsushima PS4",
+      "UNCHARTED_4 PS4",
+      "Horizon PS4"
+   ],
+   "courses":[
+      {
+         "Place of study":"Belhard Academy",
+         "Year of manufacture":2024,
+         "Specialization":"Software testing. Entry level"
+      }
+   ],
+   "my contacts email":"  2880747@gmail.com "
+}
